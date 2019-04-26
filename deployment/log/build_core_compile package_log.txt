@@ -1,0 +1,14 @@
+Buildfile: C:\Users\i2419\Documents\Mendix\MobApp-main\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 139 source files to C:\Users\i2419\Documents\Mendix\MobApp-main\deployment\run\bin
+    [javac] Note: Some input files use or override a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+
+package:
+      [jar] Building jar: C:\Users\i2419\Documents\Mendix\MobApp-main\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 9 seconds
+
+

@@ -1,0 +1,9 @@
+Buildfile: C:\Users\i2419\Documents\Mendix\MobApp-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 46 files to C:\Users\i2419\Documents\Mendix\MobApp-main\deployment
+     [copy] Copying 14 files to C:\Users\i2419\Documents\Mendix\MobApp-main\deployment\model\lib\userlib
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
